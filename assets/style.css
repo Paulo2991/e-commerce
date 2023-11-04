@@ -1,0 +1,13 @@
+@import url(./cabecalho.css);
+@import url(./rodape.css);
+:root{
+    --bg-cabecalho:#161E4E;
+    --texto-cabecalho: #ffffff;
+    --font-logo:Norican, sanserif;
+    --font-body:Inknut+Antiqua, sanserif;
+}
+
+body{
+    font-family: var(--font-body);
+    margin: 0px;
+}

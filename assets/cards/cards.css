@@ -1,0 +1,5 @@
+@media screen and ( max-width:720px) {
+    .costum-card-group{
+        flex-direction: column;
+    }
+}

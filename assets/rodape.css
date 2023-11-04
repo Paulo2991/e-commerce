@@ -1,0 +1,13 @@
+.lista-rodape{
+    list-style: none;
+}
+
+.costum-container{
+    background-color: #97241E;
+}
+
+@media screen and (max-width:720px) {
+    .costum-direction{
+        flex-direction: column;
+    }
+}

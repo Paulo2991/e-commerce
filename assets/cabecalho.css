@@ -1,0 +1,9 @@
+.custom-container {
+    color: var(--texto-cabecalho);
+}
+
+.custom-brand {
+    font-family: var(--font-logo);
+    font-size: 38px;
+}
+
