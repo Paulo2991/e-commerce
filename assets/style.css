@@ -11,3 +11,8 @@ body{
     font-family: var(--font-body);
     margin: 0px;
 }
+
+.fw-bolder{
+    letter-spacing:3px;
+    text-indent:50px;
+}
