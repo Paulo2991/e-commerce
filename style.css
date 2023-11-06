@@ -1,0 +1,43 @@
+/* index */
+.comprar-button {
+    background-color: #ffc107; /* Cor de fundo padrão */
+    color: #000; /* Cor do texto padrão */
+    border: none; /* Remova a borda do botão */
+    padding: 10px 20px; /* Tamanho do botão */
+    cursor: pointer; /* Transforma o cursor em uma mão no hover */
+    transition: background-color 0.3s; /* Adiciona uma transição suave à cor de fundo */
+
+}
+
+/* Pagamento */
+.comprar-button:hover {
+    background-color: #ff2200; /* Cor de fundo no hover */
+    color: #FFF; /* Cor do texto no hover */
+
+}
+
+
+.custom-button {
+    background-color: #ffc107; /* Cor de fundo padrão */
+    color: #000; /* Cor do texto padrão */
+    padding: 10px 20px; /* Tamanho do botão */
+    border: none; /* Remova a borda do botão */
+    cursor: pointer; /* Transforma o cursor em uma mão no hover */
+    transition: background-color 0.3s; /* Adiciona uma transição suave à cor de fundo */
+
+}
+
+.custom-button:hover {
+    background-color: #ff2200; /* Cor de fundo no hover */
+    color: #FFF; /* Cor do texto no hover */
+}
+
+
+.col-md-3 span strong {
+    font-size: 20px; /* Tamanho de fonte para o elemento strong dentro da div */
+}
+
+.col-md-3 p {
+    font-size: 20px; /* Tamanho de fonte para o elemento p dentro da div */
+}
+
